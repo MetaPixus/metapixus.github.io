@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258 257" width="258" height="257">
+	<title>vite-svg</title>
+	<style>
+		.s0 { fill: #00f7f7 } 
+	</style>
+	<g id="&lt;Group&gt;">
+		<path id="&lt;Path&gt;" class="s0" d="m120.7 174.5l-28 19.8v51.1h74.1v-16h-46.1z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m91 139.4l-30.1-21.6-45.4-32.4v160h45.4v-72.1l30.6 21.9 1.2-0.9v-53.7z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m190.3 67.7h-97.6v70.5l28-19.8 46.1-32.5v83h23.5c27.9 0 50.6-22.6 50.6-50.6 0-27.9-22.7-50.6-50.6-50.6z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m60.6 66h28v-28h-28z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m65.5 11.4h-20.7v19.4h20.7z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m42 30.3h-13.5v13.6h13.5z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m34.4 71.1h21.8v-21.8h-21.8z"/>
+	</g>
+</svg>
